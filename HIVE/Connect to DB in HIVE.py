@@ -12,6 +12,9 @@ from pyhive import hive
 hdfs_host = 'Cnt7-naya-cdh63'
 hdfs_port = 9870
 
+
+
+#
 # HDFS details
 hive_port = 10000
 hive_username = 'hdfs'
